@@ -30,7 +30,11 @@
 
 <br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvess-devs&theme=radical"/>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alvess-devs&show_icons=true&theme=radical&count_private=true" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alvess-devs&layout=compact&theme=radical" />
 </div>
 
 
