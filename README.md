@@ -3,8 +3,10 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="COLOQUE_AQUI_LINK_DA_IMAGEM_DIRETA_DO_IMGUR" />
+  <img align="center" height="200" src="https://i.imgur.com/iw9zE39.png" />
 </div>
+
+<br>
 
 <div align="center">
   <b>`プ ロ グ ラ マ`</b>
