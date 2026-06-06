@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alvess-devs&show_icons=true&theme=tokyonight" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
 
 <br>
 
@@ -28,33 +26,45 @@
   <img src="https://img.shields.io/badge/Alvess--devs-black" />
 </div>
 
-<br>
+<br><br>
+
+<!-- STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvess-devs&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alvess-devs&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 </div>
 
+<br>
+
+<!-- TOP LANGUAGES -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvess-devs&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+</div>
 
 <br>
 
+<!-- SUMMARY -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvess-devs&theme=radical"/>
 </div>
 
 <br><br>
 
-<div align="center">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
+<!-- SKILLS -->
+<div align="center" style="display: inline_block">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
-
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
 </div>
 
 <br><br>
 
+<!-- CONTACT -->
 <details align="center">
   <summary><b>More Info</b></summary>
 
@@ -74,6 +84,7 @@
 
 <br>
 
+<!-- VIEWS -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Alvess-devs&style=flat-square&color=8f2c5b" />
 </div>
