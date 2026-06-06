@@ -27,14 +27,10 @@
 </div>
 
 <br>
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alvess-devs&show_icons=true&theme=radical&count_private=true&cache_seconds=86400&hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvess-devs&theme=radical"/>
 </div>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvess-devs&layout=compact&theme=radical&cache_seconds=86400&hide_border=true">
-</div>
 
 <br>
 
