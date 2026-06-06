@@ -29,8 +29,11 @@
 <br>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alvess-devs&show_icons=true&theme=radical&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvess-devs&layout=compact&theme=radical">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alvess-devs&show_icons=true&theme=radical&count_private=true&cache_seconds=300">
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvess-devs&layout=compact&theme=radical&cache_seconds=300">
 </div>
 
 <br>
@@ -42,15 +45,14 @@
 <br><br>
 
 <div align="center">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+
 </div>
 
 <br><br>
