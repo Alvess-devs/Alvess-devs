@@ -16,6 +16,7 @@
   </samp>
 </div>
 
+<br>
 
 <!-- STATS -->
 <div align="center">
@@ -40,7 +41,6 @@
 
 <!-- SKILLS -->
 <div align="center" style="display: inline_block">
- 
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
