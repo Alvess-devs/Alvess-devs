@@ -29,18 +29,7 @@
 <br><br>
 
 <!-- STATS -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alvess-devs&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-</div>
 
-<br>
-
-<!-- TOP LANGUAGES -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvess-devs&layout=compact&theme=radical&langs_count=8&hide_border=true" />
-</div>
-
-<br>
 
 <!-- SUMMARY -->
 <div align="center">
