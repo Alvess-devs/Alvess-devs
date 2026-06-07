@@ -1,13 +1,16 @@
+<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
 
 <br>
 
+<!-- IMAGE -->
 <div align="center">
-  <img align="center" height="200" src="https://i.imgur.com/iw9zE39.png" />
+  <img height="200" src="https://i.imgur.com/iw9zE39.png" />
 </div>
 
 <br>
 
+<!-- NAME -->
 <div align="center">
   <b>`プ ロ グ ラ マ`</b>
   <samp>
@@ -18,64 +21,44 @@
 
 <br>
 
-<!-- STATS -->
+<!-- ACTIVITY GRAPH (ÚNICO QUE SEMPRE FUNCIONA BEM) -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alvess-devs&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrovitor7&theme=react-dark" />
 </div>
 
 <br>
 
-<!-- TOP LANGUAGES -->
+<!-- TROPHY (ESTÁVEL E BONITO) -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvess-devs&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrovitor7&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 <br>
 
-<!-- SUMMARY -->
+<!-- PROFILE SUMMARY (CONTRIBUIÇÕES) -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvess-devs&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrovitor7&theme=radical"/>
 </div>
 
-<br><br>
+<br>
 
 <!-- SKILLS -->
-<div align="center" style="display: inline_block">
+<div align="center">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 </div>
-
-<br><br>
-
-<!-- CONTACT -->
-<details align="center">
-  <summary><b>More Info</b></summary>
-
-<br>
-
-<div align="center">
-  <b>Contact me:</b>
-  <br><br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail)](mailto:SEU_EMAIL@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram)](https://instagram.com/SEU_USUARIO)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU_USUARIO)
-
-</div>
-
-</details>
 
 <br>
 
 <!-- VIEWS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alvess-devs&style=flat-square&color=8f2c5b" />
+  <img src="https://komarev.com/ghpvc/?username=pedrovitor7&style=flat-square&color=8f2c5b" />
 </div>
 
 <br>
 
+<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
