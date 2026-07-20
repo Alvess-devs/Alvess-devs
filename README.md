@@ -64,7 +64,7 @@
   <br><br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail)](mailto:SEU_EMAIL@gmail.com)
-  [![Instagram](https://shields.io)](https://www.instagram.com/it.vitorrs)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/it.vitorrs)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU_USUARIO)
 
 </div>
